@@ -1,4 +1,4 @@
-Flask==0.12
+Flask==1.0.2
 Flask-Login==0.4.0
 Flask-Migrate==2.0.2
 Flask-SQLAlchemy==2.1
@@ -18,7 +18,6 @@ itsdangerous==0.24
 six==1.10.0
 pyelasticsearch==1.4
 redis==2.10.3
-gunicorn==19.3.0
 python-pushover
 stripe==1.75.0
 python-geoip==1.2
